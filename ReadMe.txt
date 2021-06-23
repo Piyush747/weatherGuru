@@ -10,3 +10,4 @@ Developed By Piyush Jain
 >>icon.png downloaded from https://pixabay.com/
 >>converted to .ico on https://www.favicon-generator.org/
 >>Any feedback or suggestion... please email at jainpiyush1509@gmail.com
+>>Please extract the cdn.weatherapp.com.zip before running the app.
